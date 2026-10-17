@@ -1,2 +1,2 @@
-# isaacnzth
+# isaac nazareth
 portfolio isaac
